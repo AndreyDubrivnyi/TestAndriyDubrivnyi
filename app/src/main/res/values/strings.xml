@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAndriyDubrivnyi</string>
+    <string name="attempts_left">Attempts left: %1$d</string>
+    <string name="secret_number_placeholder">Secret number: %1$d</string>
+    <string name="submit_guess">Submit Guess</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="win_message">Congratulations!You win</string>
+    <string name="too_big_message">Too big!</string>
+    <string name="too_small_message">Too small!</string>
+</resources>
